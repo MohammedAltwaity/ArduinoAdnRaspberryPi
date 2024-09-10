@@ -1,4 +1,4 @@
-I2C Communication between Raspberry Pi and Arduino
+#I2C Communication between Raspberry Pi and Arduino
 This project demonstrates how to establish I2C communication between a Raspberry Pi and an Arduino. The Arduino sends a string to the Raspberry Pi over I2C, and the Raspberry Pi receives and prints the string.
 
 Overview
